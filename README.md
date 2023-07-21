@@ -33,6 +33,15 @@ Face Detection and Recognition: A GitHub repository showcasing Python and OpenCV
 pip install -r requirements.txt
 ```
 
+## Environment Information:
+- Python Version: 3.10.6
+- Operating System: Ubuntu 22.04.2 LTS x86_64
+- Memory: 16 GiB
+- CPU: Intel i5-8250U (8) @ 3.400GHz
+- GPU: Intel UHD Graphics 620
+
+This environment provides the necessary platform for running Python scripts and performing various tasks involving face detection and recognition using OpenCV and other related libraries. The powerful CPU and sufficient memory ensure smooth execution and efficient processing of image data. The Intel UHD Graphics 620 GPU provides hardware acceleration, if needed, for computationally intensive tasks related to computer vision and deep learning.
+
 ## Paper
 
 You can find a detailed paper titled "Face Detection and Recognition Using Python" in the repository. [Download the paper (PDF)](https://github.com/GhnimiWael/Face_Detection_and_Recognition/blob/main/Face%20Detection%20and%20Recognition%20Using%20Python.pdf).
