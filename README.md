@@ -1,4 +1,4 @@
-# Face_Detection_and_Recognition
+# Face Detection and Recognition Using Python
 Face Detection and Recognition: A GitHub repository showcasing Python and OpenCV-based tools for accurate and efficient face detection and recognition, enabling easy integration into various applications and projects. 📸👤
 
 
@@ -28,6 +28,10 @@ Face Detection and Recognition: A GitHub repository showcasing Python and OpenCV
 4. Use `faceRecognition.py` to recognize faces based on the trained model.
 5. For further details, refer to the individual script files.
 
+## Requirement
+```bash
+pip install -r requirements.txt
+```
 
 ## Paper
 
