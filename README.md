@@ -19,6 +19,7 @@ Face Detection and Recognition: A GitHub repository showcasing Python and OpenCV
 9. `trainer`: Directory containing the trained model for face recognition.
 10. `trainer.zip`: Zip archive of the trained model.
 11. `dataset.zip`: Zip archive of face image datasets.
+12. `extract_imag_from_db.sh`: This bash script copies and renames pictures from a source directory "/opt/projects/face_recon/VIDTIMITtrain" to a destination directory "/opt/projects/face_recon/database," organizing them by user number and picture number.
 
 ## Usage
 
